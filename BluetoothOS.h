@@ -1,5 +1,5 @@
 // BluetoothOS
-// Created by Christian Colucci KernelTeamiOS
+// Created by Christian Colucci 
 // Copyright © all right are served
 
 
@@ -18,7 +18,7 @@ Bluetooth: 48:4B:AA:5A:9F:F7
 
 - - - - - - - - - - - - - - - - - - 
 Device: PS4 SLIM 2018
-Software: LAST UPDATE 06/18
+Software: 5.05
 root: no
 exploit: beta
 Bluetooth: ktios.bluetoothOS
